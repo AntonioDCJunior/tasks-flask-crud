@@ -1,0 +1,10 @@
+#o objetivo desse arquivo é para instalar todas as dependências
+# que serão necessárias no projeto atual. 
+#Após criar o arquivo, basta executar o comando no terminal: 
+#pip3 install -r requirements.txt
+
+#Todas as bibliotecas que serão utilizadas
+Flask==2.3.0
+Flask-SQLAlchemy==3.1.1
+Flask-Cors==3.0.10
+Werkzeug==2.3.0
